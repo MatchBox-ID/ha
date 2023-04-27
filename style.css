@@ -416,7 +416,7 @@ h6 {
 }
 
 #hero .btn-get-started {
-  font-family: monospace;
+  font-family: Righteous;
   font-weight: 500;
   font-size: 14px;
   letter-spacing: 1px;
@@ -1175,7 +1175,7 @@ section {
   border-radius: 5px;
   position: relative;
   overflow: hidden; 
-  font-family: monospace;
+  font-family: Righteous;
 }
 .pricing2 .box2 {
   padding: 20px;
@@ -1201,7 +1201,7 @@ section {
   font-size: 36px;
   color: #130B54;
   font-weight: 600;
-  font-family: monospace;
+  font-family: Righteous;
   margin-bottom: 20px;
 }
 
@@ -1257,7 +1257,7 @@ section {
   transition: none;
   font-size: 14px;
   font-weight: 400;
-  font-family: monospace;
+  font-family: Righteous;
   font-weight: 600;
   transition: 0.3s;
 }
@@ -2226,7 +2226,7 @@ section {
   padding-top: 5px;
   font-size: 13px;
   color: #fff;
-  font-family: monospace;
+  font-family: Righteous;
 }
 
 #footer .social-links a {
