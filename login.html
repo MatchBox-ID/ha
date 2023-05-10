@@ -179,6 +179,27 @@ Siap Melayani 24 Jam">
     <script src="https://ahsanpedia.com/assets/js/scripts/extensions/ext-component-sweet-alerts.js"></script>
     <script src="https://ahsanpedia.com/assets/js/scripts/components/components-alerts.js"></script>
     <script src="https://ahsanpedia.com/assets/js/scripts/extensions/ext-component-blockui.js"></script>
+    <!-- LOGIN J -->
+  <script>
+    const form = document.querySelector('#loginForm');
+
+    form.addEventListener('submit', function(event) {
+      event.preventDefault();
+
+      // mengambil nilai jawaban1 dan jawaban2 dari form
+      const username = form.elements.usernane.value;
+      const login-password = form.elements.login-password.value;
+
+      // melakukan validasi input
+      if (username === 'admin' && login-password === 'phpmyadmin') {
+        // jika input benar, alihkan pengguna ke halaman lain
+        window.location.href = 'https://matchboxid.my.id/user';
+      } else {
+        // jika input salah, munculkan pesan error
+        alert('Ussername / Password anda salah, Coba lagi untuk login');
+      }
+    });
+  </script>
     <!-- END: Page JS-->
 
     <script type="text/javascript">
