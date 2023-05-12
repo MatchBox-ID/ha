@@ -503,7 +503,7 @@ h6 {
   }
 }
 
-@media (max-width: 575px) {
+@media (max-width: 500px) {
   #hero .hero-img img {
     width: 80%;
   }
