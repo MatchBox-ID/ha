@@ -506,7 +506,6 @@ h6 {
 @media (max-width: 500px) {
   #hero .hero-img img {
     width: 500px;
-    length: 500px;
   }
 }
 
