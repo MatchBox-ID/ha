@@ -1,278 +1,152 @@
-<?xml version="1.0" encoding="UTF-8"?> 
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
 <url>
-  <loc>http://matchstore.netlify.app/./docs</loc>
-  <priority>1.0</priority>
-  <changefreq>always</changefreq>
-  <lastmod>2023-04-10</lastmod>
+  <loc>https://matchboxid.my.id/</loc>
+  <lastmod>2023-05-25T12:20:05+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://matchstore.netlify.app/./login</loc>
-  <priority>1.0</priority>
-  <changefreq>always</changefreq>
-  <lastmod>2023-04-10</lastmod>
+  <loc>https://matchboxid.my.id/docs</loc>
+  <lastmod>2023-05-25T12:20:05+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://matchstore.netlify.app/./regristrasi</loc>
-  <priority>1.0</priority>
-  <changefreq>always</changefreq>
-  <lastmod>2023-04-10</lastmod>
+  <loc>https://matchboxid.my.id/about</loc>
+  <lastmod>2023-05-25T12:20:05+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://matchstore.netlify.app/./about</loc>
-  <priority>1.0</priority>
-  <changefreq>always</changefreq>
-  <lastmod>2023-04-10</lastmod>
+  <loc>https://matchboxid.my.id/services</loc>
+  <lastmod>2023-05-25T12:20:05+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://matchstore.netlify.app/./services</loc>
-  <priority>1.0</priority>
-  <changefreq>always</changefreq>
-  <lastmod>2023-04-10</lastmod>
+  <loc>https://matchboxid.my.id/privacy</loc>
+  <lastmod>2023-05-25T12:20:05+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://matchstore.netlify.app/./privacy</loc>
-  <priority>1.0</priority>
-  <changefreq>always</changefreq>
-  <lastmod>2023-04-10</lastmod>
+  <loc>https://matchboxid.my.id/pricing</loc>
+  <lastmod>2023-05-25T12:20:05+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://matchstore.netlify.app/./pricing</loc>
-  <priority>1.0</priority>
-  <changefreq>always</changefreq>
-  <lastmod>2023-04-10</lastmod>
+  <loc>https://matchboxid.my.id/admin/</loc>
+  <lastmod>2023-05-25T12:20:05+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://matchstore.netlify.app/./user</loc>
-  <priority>1.0</priority>
-  <changefreq>always</changefreq>
-  <lastmod>2023-04-10</lastmod>
+  <loc>https://matchboxid.my.id/auth/forgot-page</loc>
+  <lastmod>2023-05-25T12:20:05+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://matchstore.netlify.app/</loc>
-  <priority>1.0</priority>
-  <changefreq>always</changefreq>
-  <lastmod>2023-04-10</lastmod>
+  <loc>https://matchboxid.my.id/team</loc>
+  <lastmod>2023-05-25T12:20:05+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://matchstore.netlify.app</loc>
-  <priority>1.0</priority>
-  <changefreq>always</changefreq>
-  <lastmod>2023-04-10</lastmod>
+  <loc>https://matchboxid.my.id/testimonials</loc>
+  <lastmod>2023-05-25T12:20:05+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://matchstore.netlify.app/./team</loc>
-  <priority>1.0</priority>
-  <changefreq>always</changefreq>
-  <lastmod>2023-04-10</lastmod>
+  <loc>https://matchboxid.my.id/portfolio</loc>
+  <lastmod>2023-05-25T12:20:05+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://matchstore.netlify.app/./testimonials</loc>
-  <priority>1.0</priority>
-  <changefreq>always</changefreq>
-  <lastmod>2023-04-10</lastmod>
+  <loc>https://matchboxid.my.id/pricing2</loc>
+  <lastmod>2023-05-25T12:20:05+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://matchstore.netlify.app/./portfolio</loc>
-  <priority>1.0</priority>
-  <changefreq>always</changefreq>
-  <lastmod>2023-04-10</lastmod>
+  <loc>https://matchboxid.my.id/pricing3</loc>
+  <lastmod>2023-05-25T12:20:05+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://matchstore.netlify.app/./pricing2</loc>
-  <priority>1.0</priority>
-  <changefreq>always</changefreq>
-  <lastmod>2023-04-10</lastmod>
+  <loc>https://matchboxid.my.id/blog-single</loc>
+  <lastmod>2023-05-25T12:20:05+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://matchstore.netlify.app/./pricing3</loc>
-  <priority>1.0</priority>
-  <changefreq>always</changefreq>
-  <lastmod>2023-04-10</lastmod>
+  <loc>https://matchboxid.my.id/blog</loc>
+  <lastmod>2023-05-25T12:20:05+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://matchstore.netlify.app/./blog-single</loc>
-  <priority>1.0</priority>
-  <changefreq>always</changefreq>
-  <lastmod>2023-04-10</lastmod>
+  <loc>https://matchboxid.my.id/contact</loc>
+  <lastmod>2023-05-25T12:20:05+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://matchstore.netlify.app/./blog</loc>
-  <priority>1.0</priority>
-  <changefreq>always</changefreq>
-  <lastmod>2023-04-10</lastmod>
+  <loc>https://matchboxid.my.id/docs?coming-soon-by-matchbox</loc>
+  <lastmod>2023-05-25T12:20:05+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://matchstore.netlify.app/./contact</loc>
-  <priority>1.0</priority>
-  <changefreq>always</changefreq>
-  <lastmod>2023-04-10</lastmod>
+  <loc>https://matchboxid.my.id/portfolio-details.html</loc>
+  <lastmod>2023-05-25T12:20:05+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://matchstore.netlify.app/./admin/portfolio</loc>
-  <priority>1.0</priority>
-  <changefreq>always</changefreq>
-  <lastmod>2023-04-10</lastmod>
+  <loc>https://matchboxid.my.id/privacy.html</loc>
+  <lastmod>2023-05-25T12:20:05+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://matchstore.netlify.app/icon.png</loc>
-  <priority>1.0</priority>
-  <changefreq>always</changefreq>
-  <lastmod>2023-04-10</lastmod>
+  <loc>https://matchboxid.my.id/pricing2.html</loc>
+  <lastmod>2023-05-25T12:20:05+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://matchstore.netlify.app/portfolio-details.html</loc>
-  <priority>1.0</priority>
-  <changefreq>always</changefreq>
-  <lastmod>2023-04-10</lastmod>
+  <loc>https://matchboxid.my.id/admin/matchbox</loc>
+  <lastmod>2023-05-25T12:20:05+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://matchstore.netlify.app/page-forgot</loc>
-  <priority>1.0</priority>
-  <changefreq>always</changefreq>
-  <lastmod>2023-04-10</lastmod>
+  <loc>https://matchboxid.my.id/admin/zoldyck</loc>
+  <lastmod>2023-05-25T12:20:05+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://matchstore.netlify.app/privacy.html</loc>
-  <priority>1.0</priority>
-  <changefreq>always</changefreq>
-  <lastmod>2023-04-10</lastmod>
+  <loc>https://matchboxid.my.id/admin/artdev</loc>
+  <lastmod>2023-05-25T12:20:05+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://matchstore.netlify.app/pricing2.html</loc>
-  <priority>1.0</priority>
-  <changefreq>always</changefreq>
-  <lastmod>2023-04-10</lastmod>
+  <loc>https://matchboxid.my.id/admin/okestra</loc>
+  <lastmod>2023-05-25T12:20:05+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>http://matchstore.netlify.app/./pr</loc>
-  <priority>1.0</priority>
-  <changefreq>always</changefreq>
-  <lastmod>2023-04-10</lastmod>
+  <loc>https://matchboxid.my.id/pricing.html</loc>
+  <lastmod>2023-05-25T12:20:05+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://matchstore.netlify.app/./set</loc>
-  <priority>1.0</priority>
-  <changefreq>always</changefreq>
-  <lastmod>2023-04-10</lastmod>
+  <loc>https://matchboxid.my.id/pricing3.html</loc>
+  <lastmod>2023-05-25T12:20:05+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://matchstore.netlify.app/./order</loc>
-  <priority>1.0</priority>
-  <changefreq>always</changefreq>
-  <lastmod>2023-04-10</lastmod>
+  <loc>https://matchboxid.my.id/blog-single.html</loc>
+  <lastmod>2023-05-25T12:20:05+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 <url>
-  <loc>http://matchstore.netlify.app/./cr</loc>
-  <priority>1.0</priority>
-  <changefreq>always</changefreq>
-  <lastmod>2023-04-10</lastmod>
+  <loc>https://matchboxid.my.id/portfolio.html</loc>
+  <lastmod>2023-05-25T12:20:05+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
-<url>
-  <loc>http://matchstore.netlify.app/./wallet</loc>
-  <priority>1.0</priority>
-  <changefreq>always</changefreq>
-  <lastmod>2023-04-10</lastmod>
-</url>
-<url>
-  <loc>http://matchstore.netlify.app/./servicez</loc>
-  <priority>1.0</priority>
-  <changefreq>always</changefreq>
-  <lastmod>2023-04-10</lastmod>
-</url>
-<url>
-  <loc>http://matchstore.netlify.app/portfolio-1.jpg</loc>
-  <priority>1.0</priority>
-  <changefreq>always</changefreq>
-  <lastmod>2023-04-10</lastmod>
-</url>
-<url>
-  <loc>http://matchstore.netlify.app/portfolio-2.jpg</loc>
-  <priority>1.0</priority>
-  <changefreq>always</changefreq>
-  <lastmod>2023-04-10</lastmod>
-</url>
-<url>
-  <loc>http://matchstore.netlify.app/portfolio-3.jpg</loc>
-  <priority>1.0</priority>
-  <changefreq>always</changefreq>
-  <lastmod>2023-04-10</lastmod>
-</url>
-<url>
-  <loc>http://matchstore.netlify.app/portfolio-4.jpg</loc>
-  <priority>1.0</priority>
-  <changefreq>always</changefreq>
-  <lastmod>2023-04-10</lastmod>
-</url>
-<url>
-  <loc>http://matchstore.netlify.app/portfolio-5.jpg</loc>
-  <priority>1.0</priority>
-  <changefreq>always</changefreq>
-  <lastmod>2023-04-10</lastmod>
-</url>
-<url>
-  <loc>http://matchstore.netlify.app/portfolio-6.jpg</loc>
-  <priority>1.0</priority>
-  <changefreq>always</changefreq>
-  <lastmod>2023-04-10</lastmod>
-</url>
-<url>
-  <loc>http://matchstore.netlify.app/portfolio-7.jpg</loc>
-  <priority>1.0</priority>
-  <changefreq>always</changefreq>
-  <lastmod>2023-04-10</lastmod>
-</url>
-<url>
-  <loc>http://matchstore.netlify.app/portfolio-8.jpg</loc>
-  <priority>1.0</priority>
-  <changefreq>always</changefreq>
-  <lastmod>2023-04-10</lastmod>
-</url>
-<url>
-  <loc>http://matchstore.netlify.app/portfolio-9.jpg</loc>
-  <priority>1.0</priority>
-  <changefreq>always</changefreq>
-  <lastmod>2023-04-10</lastmod>
-</url>
-<url>
-  <loc>http://matchstore.netlify.app/pricing.html</loc>
-  <priority>1.0</priority>
-  <changefreq>always</changefreq>
-  <lastmod>2023-04-10</lastmod>
-</url>
-<url>
-  <loc>http://matchstore.netlify.app/pricing3.html</loc>
-  <priority>1.0</priority>
-  <changefreq>always</changefreq>
-  <lastmod>2023-04-10</lastmod>
-</url>
-<url>
-  <loc>http://matchstore.netlify.app/blog-single.html</loc>
-  <priority>1.0</priority>
-  <changefreq>always</changefreq>
-  <lastmod>2023-04-10</lastmod>
-</url>
-<url>
-  <loc>http://matchstore.netlify.app</loc>
-  <priority>1.0</priority>
-  <changefreq>always</changefreq>
-  <lastmod>2023-04-10</lastmod>
-</url>
-<url>
-  <loc></loc>
-  <priority>1.0</priority>
-  <changefreq>always</changefreq>
-  <lastmod>2023-04-10</lastmod>
-</url>
-<url>
-  <loc>http://matchstore.netlify.app/portfolio.html</loc>
-  <priority>1.0</priority>
-  <changefreq>always</changefreq>
-  <lastmod>2023-04-10</lastmod>
-</url>
-<url>
-  <loc>http://matchstore.netlify.app/./index</loc>
-  <priority>1.0</priority>
-  <changefreq>always</changefreq>
-  <lastmod>2023-04-10</lastmod>
-</url>
+
+
+</urlset>
